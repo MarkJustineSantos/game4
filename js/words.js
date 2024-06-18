@@ -9,10 +9,6 @@ let wordList =
         hint: "Rizal's pen name in La Solidaridad"
     },
     {
-        word: "December 30",
-        hint: "Rizal Day is celebrated on this date"
-    },
-    {
         word: "Rizal Park",
         hint: "Present-day name of Bagumbayan"
     },
@@ -57,18 +53,6 @@ let wordList =
         hint: "Rizal's Latin and Spanish tutor"
     },
     {
-        word: "1859",
-        hint: "Year when Ateneo de Manila was founded"
-    },
-    {
-        word: "1830",
-        hint: "Year when Calamba Church was established"
-    },
-    {
-        word: "3",
-        hint: "Age when Rizal learned the alphabet"
-    },
-    {
         word: "Spain",
         hint: "Country where Rizal was a member of the Propaganda Movement"
     },
@@ -79,10 +63,6 @@ let wordList =
     {
         word: "Deism",
         hint: "Rizal's religious belief"
-    },
-    {
-        word: "Recto",
-        hint: "Main thoroughfare in Manila named after a famous Filipino lawyer and nationalist"
     },
     {
         word: "Luna",
